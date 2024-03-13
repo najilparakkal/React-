@@ -14,7 +14,7 @@ function Counter() {
                 Helloo {count}
             </h1>
         </div>
-    )
-}
+    )s
+    }
 
 export default Counter
